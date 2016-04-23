@@ -1,0 +1,23 @@
+<?php
+$_['lang_product_name']                     = 'Nama Produk';
+$_['lang_save']                             = 'Simpan';
+$_['lang_cancel']                           = 'Batal';
+$_['lang_delete']                           = 'Hapus';
+$_['lang_page_title']                       = 'Produk play.com baru';
+$_['lang_page_title_edit']                  = 'Edit produk play.com';
+$_['lang_product_id']                       = 'ID Product<span class="help">Tanpa tanda hubung atau spasi</span>';
+$_['lang_product_dispatch_to']              = 'Pengiriman ke';
+$_['lang_product_id_type']                  = 'Jenis ID Product<span class="help">ISBN bisa 10 or 13 kode</span>';
+$_['lang_price_uk']                         = 'Harga ke UK<span class="help">Termasuk semua pengiriman &amp; pajak</span>';
+$_['lang_price_euro']                       = 'Harga ke Europe<span class="help">Termasuk semua pengiriman &amp; pajak</span>';
+$_['lang_quantity']                         = 'Banyaknya';
+$_['lang_condition']                        = 'Kondisi';
+$_['lang_comment']                          = 'Komentar';
+$_['lang_product_dispatch_fr']              = 'Pengiriman Dari';
+$_['lang_text_success']                     = 'Produk anda telah ditambahkan';
+$_['lang_text_success_updated']             = 'Produk Anda akan diperbarui di pasar Play.com pada update berikutnya';
+$_['lang_text_success_deleted']             = 'Produk Anda akan dihapus dari Play.com pasar pada update berikutnya';
+$_['lang_error_min_price']                  = 'Harga GBP harus &pound;0.98 atau lebih, dan sampai &pound;3000';
+$_['lang_error_max_price']                  = 'Harga GBP harus &pound;0.98 atau lebih, dan sampai &pound;3000';
+$_['lang_error_min_price_eu']               = 'Harga EURO harus &euro;1.59 atau lebih, dan sampai &euro;5000';
+$_['lang_error_max_price_eu']               = 'Harga EURO harus &euro;1.59 atau lebih, dan sampai &euro;5000';

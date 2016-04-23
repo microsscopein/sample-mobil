@@ -1,0 +1,23 @@
+<?php
+$_['lang_heading']                      = 'Item import';
+$_['lang_openbay']                      = 'OpenBay Pro';
+$_['lang_page_title']                   = 'OpenBay Pro for eBay';
+$_['lang_ebay']                         = 'eBay';
+$_['lang_btn_return']                   = 'Kembali';
+$_['lang_sync_import_line1']            = '<strong>Hati-hati!</strong> Ini akan mengimpor semua produk eBay Anda dan membangun struktur kategori di toko Anda. Untuk itu disarankan Anda menghapus semua kategori dan produk sebelum Anda menjalankan opsi ini. <br />Struktur kategori ini dari kategori eBay normal, bukan kategori toko Anda (jika Anda memiliki sebuah toko eBay). Anda dapat mengubah nama, menghapus dan mengedit kategori impor tanpa mempengaruhi produk eBay Anda.';
+$_['lang_sync_import_line2']            = 'Opsi ini menggunakan banyak panggilan ke API, satu untuk setiap produk ditambah 1 ekstra panggilan setiap 20 item.';
+$_['lang_sync_import_line3']            = 'Anda perlu memastikan server Anda dapat menerima dan memproses ukuran data POST besar. 1000 item eBay adalah sekitar 40 Mb, Anda perlu menghitung apa yang Anda butuhkan. Jika panggilan Anda gagal maka kemungkinan pengaturan Anda terlalu kecil. Batas memori PHP perlu sekitar 128MB.';
+$_['lang_sync_server_size']             = 'Saat ini server Anda dapat menerima: ';
+$_['lang_sync_memory_size']             = 'Batas memori PHP Anda: ';
+$_['lang_sync_item_description']        = 'Impor deskripsi item<span class="help">Ini akan mengimpor semuanya <br /> termasuk HTML, counter dll</span>';
+$_['lang_sync_notes_location']          = 'Impor catatan eBay ke data lokasi';
+$_['lang_import_ebay_items']            = 'Impor barang eBay';
+$_['lang_import']                       = 'Import';
+$_['lang_error_validation']             = 'Anda harus mendaftar untuk mendapatkan token API Anda dan untuk mengaktifkan modul.';
+$_['lang_ajax_import_confirm']          = 'Ini akan mengimpor semua barang eBay Anda sebagai produk baru, apakah Anda yakin? Ini TIDAK BISA dibatalkan! sebelumnya PASTIKAN Anda memiliki cadangan!';
+$_['lang_ajax_import_notify']           = 'Permintaan impor Anda telah dikirim untuk diproses. Impor memakan waktu sekitar 1 jam per 1000 item.';
+$_['lang_ajax_load_error']              = 'Gagal terhubung ke server';
+$_['lang_maintenance_fail']             = 'Toko Anda dalam mode pemeliharaan. Mengimpor akan gagal!';
+$_['lang_import_images_msg1']           = 'gambar yang tertunda impor / copy dari eBay. Refresh halaman ini, jika nomor tidak berkurang maka';
+$_['lang_import_images_msg2']           = 'klik disini';
+$_['lang_import_images_msg3']           = 'dan tunggu. Informasi lebih lanjut tentang mengapa hal ini terjadi dapat ditemukan <a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=8_45" target="_blank">disini</a>';

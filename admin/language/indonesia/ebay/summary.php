@@ -1,0 +1,23 @@
+<?php
+$_['lang_heading']              = 'eBay summary';
+$_['lang_openbay']              = 'OpenBay Pro';
+$_['lang_ebay']                 = 'eBay';
+$_['lang_btn_return']           = 'Kembali';
+$_['lang_use_desc']             = 'Ini adalah ringkasan halaman akun eBay Anda. Ini adalah gambaran singkat tentang batasan-batasan pada account Anda bersama dengan kinerja penjualan DSR Anda.';
+$_['lang_load']                 = 'Refresh';
+$_['lang_limits_heading']       = 'Batas penjualan';
+$_['lang_error_validation']     = 'Anda harus mendaftar untuk token API Anda dan untuk mengaktifkan modul.';
+$_['lang_ajax_load_error']      = 'Maaf, koneksi ke server gagal';
+$_['lang_ebay_limit_head']      = 'Account eBay Anda telah mencapai batas penjualan!';
+$_['lang_ebay_limit_t1']        = 'Anda dapat menjual';
+$_['lang_ebay_limit_t2']        = 'lebih banyak item (ini adalah jumlah total item, bukan listing individual) dengan nilai';
+$_['lang_ebay_limit_t3']        = 'Ketika Anda mencoba untuk membuat iklan baru, maka akan gagal jika Anda melebihi jumlah di atas.';
+$_['lang_as_described']         = 'Item seperti yang dijelaskan';
+$_['lang_communication']        = 'Kominukasi';
+$_['lang_shippingtime']         = 'Waktu pengiriman';
+$_['lang_shipping_charge']      = 'Ongkos kirim';
+$_['lang_score']                = 'Nilai';
+$_['lang_count']                = 'Jumlah';
+$_['lang_report_30']            = '30 hari';
+$_['lang_report_52']            = '52 minggu';
+$_['lang_title_dsr']            = 'laporan DSR';

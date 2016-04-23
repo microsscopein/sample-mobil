@@ -1,0 +1,43 @@
+<?php
+$_['lang_page_title']               = 'Bulk listing';
+
+$_['lang_cancel']                   = 'Batal';
+$_['lang_none']                     = 'None';
+$_['lang_preview']                  = 'Preview';
+$_['lang_pixels']                   = 'Pixels';
+$_['lang_yes']                      = 'Ya';
+$_['lang_no']                       = 'Tidak';
+$_['lang_add']                      = 'Tambah';
+$_['lang_remove']                   = 'Hapus';
+$_['lang_save']                     = 'Simpan';
+$_['lang_other']                    = 'Lainnya';
+$_['lang_select']                   = 'Pilih';
+
+$_['lang_profile_theme']            = 'Profil Theme:';
+$_['lang_profile_shipping']         = 'Profil pengiriman:';
+$_['lang_profile_returns']          = 'Profil retur:';
+$_['lang_profile_generic']          = 'Profil generic:';
+$_['lang_condition']                = 'Kondisi:';
+$_['lang_duration']                 = 'Durasi:';
+$_['lang_category']                 = 'Kategori:';
+$_['lang_preview_all']              = 'Verifikasi semua';
+$_['lang_error_variants']           = 'Item dengan variasi tidak dapat terdaftar bulk dan tidak dipilih';
+$_['lang_error_stock']              = 'Beberapa item tidak dalam stok dan telah dihapus';
+$_['lang_exists']                   = 'Beberapa item sudah terdaftar di eBay sehingga telah dihapus';
+$_['lang_error_count']              = 'Anda telah memilih %s item, mungkin memerlukan waktu untuk memproses data Anda';
+$_['lang_error_ship_profile']       = 'Anda harus memiliki pengiriman profil setup standar';
+$_['lang_error_generic_profile']    = 'Anda harus memiliki pengiriman profil generic standar';
+$_['lang_error_return_profile']     = 'Anda harus memiliki pengiriman profil retur standar';
+$_['lang_error_theme_profile']      = 'Anda harus memiliki pengiriman profil theme standar';
+$_['lang_verifying']                = 'Memverifikasi item';
+$_['lang_processing']               = 'Pemrosesan <span id="activeItems"></span> item';
+$_['lang_listed']                   = 'Item yang terdaftar! ID: ';
+$_['lang_view']                     = 'Tampilkan daftar';
+$_['lang_error_no_product']         = 'Tidak ada produk dipilih yang memenuhi syarat untuk menggunakan fitur upload massal';
+$_['lang_ajax_confirm_listing']     = 'Apakah Anda yakin ingin membuat daftar massal barang-barang ini?';
+$_['lang_bulk_plan_error']          = 'Rencana Anda saat ini tidak memungkinkan untuk upload massal, upgrade plan Anda <a href="%s">disini</a>';
+$_['lang_item_limit']               = 'Anda tidak bisa membuat daftar barang-barang ini yang Anda akan melebihi batas plan Anda, upgrade plan Anda <a href="%s">disini</a>';
+$_['lang_search_text']              = 'Masukkan beberapa teks pencarian';
+$_['lang_catalog_no_products']      = 'Tidak ada produk di dalam katalog ditemukan';
+$_['lang_search_failed']            = 'Pencarian gagal';
+$_['lang_esc_key']                  = 'Halaman pembuka telah disembunyikan tapi mungkin belum selesai dimuat';

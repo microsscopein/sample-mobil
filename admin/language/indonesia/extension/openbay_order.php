@@ -1,0 +1,21 @@
+<?php
+$_['lang_btn_status']           = 'Ubah status';
+$_['lang_order_channel']        = 'Channel Pesanan';
+$_['lang_confirmed']            = 'Pesanan telah ditandai';
+$_['lang_no_orders']            = 'Tidak ada perintah dipilih untuk pembaruan';
+$_['lang_confirm_title']        = 'Ulasan massal update status';
+$_['lang_confirm_change_text']  = 'Mengubah status pesanan menjadi';
+$_['lang_column_addtional']     = 'Info tambahana';
+$_['lang_column_comments']      = 'Komentar';
+$_['lang_column_notify']        = 'Pemberitahuan';
+$_['lang_carrier']              = 'Kurir';
+$_['lang_tracking']             = 'Penelusuran';
+$_['lang_other']                = 'Lainnya';
+$_['lang_refund_reason']        = 'Alasan Refund';
+$_['lang_refund_message']       = 'Pesan Refund';
+$_['lang_update']               = 'Update';
+$_['lang_cancel']               = 'Batal';
+$_['lang_e_ajax_1']             = 'Pesanan play kehilangan pesan refund!';
+$_['lang_e_ajax_2']             = 'Pesanan play kehilangan informasi Penelusuran!';
+$_['lang_e_ajax_3']             = 'Pesanan Amazon kehilang masukkan "Kurir Pesanan"!';
+$_['lang_title_order_update']   = 'Update masal pesanan';
